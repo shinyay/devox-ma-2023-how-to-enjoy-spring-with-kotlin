@@ -1,6 +1,6 @@
 # "How to enjoy Spring with Kotlin" on Devoxx Morocco 2023
 
-
+<img width="886" alt="image" src="https://github.com/shinyay/devox-ma-2023-how-to-enjoy-spring-with-kotlin/assets/3072734/993158b5-8690-4bfd-9a57-46e7b7d05938">
 
 <https://devoxx.ma/talk/?id=26777>
 
