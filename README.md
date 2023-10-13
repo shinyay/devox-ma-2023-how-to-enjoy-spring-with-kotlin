@@ -31,7 +31,7 @@ My environment:
 
 ## References
 
-- [Sesslin Slide](./pdf/231012_How_to_enjoy_Spring_with_Kotlin.pdf)
+- [Session Slide](./pdf/231012_How_to_enjoy_Spring_with_Kotlin.pdf)
 
 ## Licence
 
